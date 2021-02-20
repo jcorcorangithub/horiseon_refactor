@@ -84,7 +84,7 @@ h2 {
     font-size: 36px;
 }
 
-/* for pictures in the main section */
+/* for picture placement in the main section */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -95,7 +95,7 @@ h2 {
 }
 
 
-/* this next section is the side bar to the right of page */
+/* this next section applies to the side bar to the right of page */
 
 .benefits {
     margin-right: 20px;
